@@ -1,7 +1,7 @@
-## Olá! Eu sou o Valter Leite 🖐
+## Olá! Eu sou o Antonio Lins 🖐
 
-[![Instagram]([https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://www.linkedin.com/in/dev-valter-leite))]([https://www.instagram.com/antonio_linsxx/](https://www.linkedin.com/in/dev-valter-leite)) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-lins-766115214/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dev.valterjr/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-valter-leite)
 
 ## Tecnologias que eu uso no meu dia  
 
@@ -26,4 +26,3 @@
 - [App-de-gerenciamento-de-metas](https://github.com/Antonio-Lins/app-de-gerenciamento-de-metas)<br/>
 - [Gerenciamento-de-biblioteca-em-Java](https://github.com/Antonio-Lins/gerenciamento-de-biblioteca-em-Java)<br/>
 - [Calculadora-em-java](https://github.com/Antonio-Lins/Calculadora-em-java)<br/>
-
