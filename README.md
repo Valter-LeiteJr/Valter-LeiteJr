@@ -15,5 +15,5 @@
 
 💻 Desenvolvedor em busca de novos desafios, movido pela paixão por tecnologia e pela arte de programar.
 
-### Últimos projetos:
+
 
